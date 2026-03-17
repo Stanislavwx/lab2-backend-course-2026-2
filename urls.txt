@@ -1,1 +1,2 @@
 course%3A%2F%2Fweb%2Ebackend%2F%3Fname%3D%22Stanislav%22%26group%3D%22FEP%2D23%22%26subgroup%3D%222%22%23Stanislav%2EChepara%40lnu%2Eedu%2Eua%0A
+https://bank.gov.ua/NBUStatService/v1/statdirectory/basindbank?date=202310&period=q&json=
